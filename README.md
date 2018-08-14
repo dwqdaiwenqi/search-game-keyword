@@ -14,7 +14,7 @@
   
   * 修改对象属性（大小、位置等）， 通常是obj.x = x、 obj.y = x、obj.width=x、obj.height=x、 obj.transform(...)等。
   
-  * ##### 要搜一搜此游戏用到的游戏引擎相关api
+  * ##### 可搜一搜此游戏用到的游戏引擎相关api
   
 
  画布大小
