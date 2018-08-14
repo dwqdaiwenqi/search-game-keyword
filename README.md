@@ -10,7 +10,7 @@
 
   * 美术修改图片
   
-  * 隐藏|销毁对象    通常是obj.opacity = 0, ob.visible = false, obj.destory() 可搜一搜游戏框架|库的api
+  * 隐藏|销毁对象    通常是obj.opacity = 0, ob.visible = false, obj.destory() 可搜一搜相关的游戏引擎api
   
   * 修改对象属性（大小、位置等）    obj.x = x ,obj.y = x, obj.width=x, obj.transform(...)等。
   
