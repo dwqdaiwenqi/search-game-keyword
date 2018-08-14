@@ -19,3 +19,4 @@
 
   * 搜索stage.width stage.height canvas.width等进行修改
  
+ 以上无法解决问题，尝试放弃此游戏修改
