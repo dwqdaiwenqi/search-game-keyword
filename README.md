@@ -1,6 +1,6 @@
 # search-game-keyword
 
-定为到对象
+定位到对象
 
   搜索函数initial 、init、 start、 over 、touchstart、click、touchend排查
   搜索图片url、搜索字体text
