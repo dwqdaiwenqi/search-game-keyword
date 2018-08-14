@@ -17,8 +17,8 @@
   * ##### 可搜一搜此游戏用到的游戏引擎相关api
   
 
- 画布大小
+ 画布位置大小
 
-  * 搜索stage.width stage.height canvas.width等进行修改
+  * 搜索stage.width stage.height canvas.width等进行画布大小修改，也可结合canvas外层dom进行位置处理
  
  #### 如以上方式依然决解决不了问题，可以尝试放弃此小游戏修改
