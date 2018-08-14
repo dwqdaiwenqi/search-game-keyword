@@ -10,9 +10,10 @@
 
   * 美术修改图片
   
-  * 隐藏或销毁对象 ，通常是obj.opacity = 0、obj.alpha = 0、obj.visible = false、obj.destory() 可搜一搜相关的游戏引擎api
+  * 隐藏或销毁对象 ，通常是obj.opacity = 0、obj.alpha = 0、obj.visible = false、obj.destory() 。
   
   * 修改对象属性（大小、位置等）， 通常是obj.x = x、 obj.y = x、obj.width=x、obj.height=x、 obj.transform(...)等。
+  * ##### 可搜一搜相关的游戏引擎api
   
 
  画布大小
